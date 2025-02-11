@@ -5,8 +5,8 @@ export default defineAppConfig({
       neutral: 'slate'
     },
 
-    primary: 'yellow',
-    neutral: 'slate'
+    primary: 'red',
+    neutral: 'cool'
   },
   uiPro: {
     footer: {
